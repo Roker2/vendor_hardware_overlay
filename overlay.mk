@@ -99,6 +99,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-xiaomi-mimix3 \
 	treble-overlay-xiaomi-mimix3-systemui \
 	treble-overlay-xiaomi-minote10 \
+	treble-overlay-xiaomi-minote10-systemui \
 	treble-overlay-xiaomi-mipad4 \
 	treble-overlay-xiaomi-miplay \
 	treble-overlay-xiaomi-pocof1 \
