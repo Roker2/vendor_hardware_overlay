@@ -4,6 +4,6 @@
         android:versionName="1.0">
         <overlay android:targetPackage="com.android.systemui"
                 android:requiredSystemPropertyName="ro.vendor.build.fingerprint"
-                android:requiredSystemPropertyValue="+*iaomi/tucana*"
+                android:requiredSystemPropertyValue="+Xiaomi/tucana*"
 		android:priority="92" />
 </manifest>
